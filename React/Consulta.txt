@@ -1,0 +1,3 @@
+Comando para criar o projeto em react usando o templete typescript 
+
+npx create-react-app --template typescript alura-studies --use-npm
