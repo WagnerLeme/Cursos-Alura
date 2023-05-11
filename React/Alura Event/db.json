@@ -1,0 +1,32 @@
+{
+    "eventos": [
+        {
+            "descricao": "Estudar React",
+            "inicio": "2023-05-10T09:00",
+            "fim": "2022-01-15T13:00",
+            "completo": false,
+            "id": 102
+        },
+        {
+            "descricao": "Estudar tyscript",
+            "inicio": "2023-05-11T09:00",
+            "fim": "2022-01-15T13:00",
+            "completo": false,
+            "id": 103
+        },
+        {
+            "descricao": "Estudar NodeJS",
+            "inicio": "2023-05-12T09:00",
+            "fim": "2022-01-15T13:00",
+            "completo": false,
+            "id": 104
+        },
+        {
+            "descricao": "Estudar Recoil",
+            "inicio": "2023-05-13T09:00",
+            "fim": "2022-01-16T11:00",
+            "completo": false,
+            "id": 105
+        }
+    ]
+}
