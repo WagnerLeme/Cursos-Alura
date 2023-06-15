@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "login": "WagnerLeme",
+      "avatar_url": "https://media.licdn.com/dms/image/C5603AQE7_PSPw7tAsA/profile-displayphoto-shrink_200_200/0/1594216885479?e=1689811200&v=beta&t=0ghKynvE4tci0Hy69L5urDHJr2b-emafQKWLVj80750",
+      "name": "Wagner Wesley Leme Ramalho",
+      "email": "Wagner@email.com",
+      "followers": 43,
+      "following": 54,
+      "id": 1
+    },
+    {
+      "login": "DanieleMunhoz",
+      "avatar_url": "https://media.licdn.com/dms/image/D4E03AQGsKxKvtT-3Vw/profile-displayphoto-shrink_800_800/0/1677200792922?e=1689811200&v=beta&t=hfR81Y-WeG8FwjmXNoGjgTSMmC4U7MrHeaoWNNmc_dI",
+      "name": "Daniele Munhoz Pereira",
+      "email": "Dani@email.com",
+      "followers": 43,
+      "following": 54,
+      "id": 2
+    },
+    {
+      "login": "PauloLeme",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54721131?v=4",
+      "name": "Paulo Henrique Leme Ramalho",
+      "email": "Paulo@email.com",
+      "followers": 43,
+      "following": 54,
+      "id": 3
+    }
+  ],
+  "repos": [
+    {
+      "name": "Api Escolas",
+      "data": "1 de jan. de 2021",
+      "postId": 1,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Arduino_AVES_Telemetria",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "name": "bot_piano_tiles",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    },
+    {
+      "id": 1,
+      "name": "2048evolution",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 2,
+      "name": "alura-pikachu",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "name": "alura-react-native-comecando-do-zero",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 5,
+      "name": "Alura_cursos",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    }
+  ]
+}
